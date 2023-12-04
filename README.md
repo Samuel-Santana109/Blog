@@ -3,7 +3,7 @@ Blog feito em bootstrap
 
 ## Visualização
 <p>Para visualizar o projeto, basta clicar na imagem abaixo: </p>
- <a href="https://samuel-santana109.github.io/Blog/" target="_blank"> 
+ <a href="https://samuel-santana109.github.io/Blog_design/" target="_blank"> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50" height="50" target="_blank"> 
  </a>
  
